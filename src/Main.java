@@ -9,7 +9,7 @@ void main() {
     } else {
         System.out.println(" человеку " + age + " или больше лет он не достиг совершеннолетия, нужно немного подождать ");
     }
-
+//
 
     // zadanie 2
     int temper = 5;
